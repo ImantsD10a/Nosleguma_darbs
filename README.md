@@ -6,4 +6,4 @@ Funkcijas tiek izvēlētas ar ciparu.
 Grupas dalībnieki:
 Imants Dimdiņš (kodēšana),
 Ivans Dorodņikovs (blokshēma),
-Jegors Franks (testēšana),
+Jegors Franks (testēšana)
