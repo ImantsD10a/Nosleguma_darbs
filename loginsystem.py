@@ -188,7 +188,7 @@ def main():
 
         if not logged_user:
 
-            print("\nMINI LOGIN SYSTEM (Izvēlies ciparu)")
+            print("\nLogin sistēma (Izvēlies ciparu)")
             print("1. Register")
             print("2. Login")
             print("3. Exit")
@@ -213,7 +213,7 @@ def main():
 
         else:
 
-            print("\nPROFILE")
+            print("\nProfile")
             print("Username:", logged_user.username)
             print("Created:", logged_user.created_at)
             print("Last login:", logged_user.last_login)
