@@ -188,7 +188,7 @@ def main():
 
         if not logged_user:
 
-            print("\nLogin sistēma (Izvēlies ciparu)")
+            print("\nLogin system (Izvēlies ciparu)")
             print("1. Register")
             print("2. Login")
             print("3. Exit")
